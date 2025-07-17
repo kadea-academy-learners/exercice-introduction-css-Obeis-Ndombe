@@ -1,3 +1,60 @@
+body{
+    background-color: rgb(212, 214, 215);
+    font-size: 1rem;
+}
+
+figure{
+    background-color: white;
+    padding: 20px 0;
+}
+
+figure img{
+    width: 75%;
+}
+
+figcaption{
+    margin-top: 20px;
+}
+
+#main-header, #main-content h2, #main-footer{
+    text-align: center;
+}
+
+p,li,blockquote {
+    font-size: 1em;
+}
+
+#main-header h1{
+    font-size: 2.5em;
+}
+
+#main-content {
+    width: 50%;
+    margin: 0 auto;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+#main-content h2{
+    font-size: 2em;
+}
+
+#main-content ul{
+    line-height: 1.5em;
+}
+
+#main-content .year{
+    font-weight: bold;
+}
+
+
+#main-footer{
+    margin-top: 50px;
+    font-weight: bold;
+}
+
+
+
 
 
 
